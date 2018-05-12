@@ -1,0 +1,36 @@
+_repo: The-Lost-Army_45071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knox, Thomas Wallace
+    alias: Knox, Thomas W.
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '5229'
+    url: http://www.gutenberg.org/2009/agents/5229
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Knox
+description: ''
+gutenberg_issued: '2014-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Generals -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Armies -- Juvenile fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'African American soldiers -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+title: The Lost Army
+url: http://www.gutenberg.org/ebooks/45071
